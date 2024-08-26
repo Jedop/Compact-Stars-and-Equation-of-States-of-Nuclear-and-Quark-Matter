@@ -10,10 +10,6 @@ This is a simple nuclear matter model for the neutron star. The details are in m
 ## Non Interacting Quark Matter
 This is a quark matter model for the neutron star. The model with massless quarks is programmed [here](massless_quark_model.py). The model with strange quark mass is programmed [here](strange_quark_model.py)
 
-### Full Equation of State for non interacting nuclear matter
-The full equation of state used in the [program](full_EoS_nuclear.py) is actually an approximation obtained by curve fitting the actual solution to the pressure and energy density equations to a rational expression involving $$\overline{p}$$ 
-and $$\overline{\epsilon}$$. It is done in this [python program]().
-
 # Results
 Now it is time to show the results. To obtain the results for a range of initial pressure values, I simply ran the program for a range of pressure values, saved it to a csv file and then plotted it. This is a very trivial matter hence I have not 
 included the program in this repository. Anyway, here are the results for the models
