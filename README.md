@@ -18,7 +18,7 @@ and $$\overline{\epsilon}$$. It is done in this [python program]().
 Now it is time to show the results. To obtain the results for a range of initial pressure values, I simply ran the program for a range of pressure values, saved it to a csv file and then plotted it. This is a very trivial matter hence I have not 
 included the program in this repository. Anyway, here are the results for the models
 **Non-relativistic Nuclear Matter**
-1. ![](results/output1.png)
+1. ![](results/output1.png?raw=true)
 **Full Nuclear Matter**
 2. ![](results/output3.png)
 **Massless Quark Model**
